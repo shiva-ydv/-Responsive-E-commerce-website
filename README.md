@@ -7,7 +7,7 @@ Cara is a modern, fully responsive e-commerce website built with HTML, CSS, and 
 ![Project Preview](https://github.com/shiva-ydv/-Responsive-E-commerce-website/blob/main/Screenshots%20webpages/Screenshot%202025-05-19%20082533.png)
 
 
-![Live Demo](https://cara-com-website.netlify.app/)
+[Live Demo](https://cara-com-website.netlify.app/)
 
 
 
@@ -65,3 +65,14 @@ Commit your changes (git commit -m 'Add new feature').
 Push to the branch (git push origin feature/your-feature).
 
 Open a Pull Request.
+
+📜 License
+This project is licensed under the MIT License.
+
+License: MIT
+
+📞 Contact
+For questions or feedback, feel free to reach out:
+
+📧 Email: shivayadav78931@gmail.com
+🌐 Website: https://cara-com-website.netlify.app/
