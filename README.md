@@ -1,7 +1,7 @@
 # -Responsive-E-commerce-website 
 # Cara - E-commerce Website
 
-![Project Preview](img/logo.png)
+![Project Preview](img/hero4.png)
 
 Cara is a modern e-commerce platform specializing in fashion apparel and accessories.
 
